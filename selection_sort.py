@@ -21,6 +21,8 @@ def index_of_min(values):
 print(selection_sort(randomlist))
 
 
+print("Hello daniel")
+
  
 ## works by switching the positions of the min value with the postiion 
 
